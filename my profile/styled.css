@@ -1,0 +1,34 @@
+.flexbox{
+	width: 100%;
+	height: 500px;
+	background-image: url("https://cdni.rbth.com/rbthmedia/images/2019.06/original/5cff8d0615e9f971c10e59b2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
+
+.flexbox2{
+	width: 100%;
+	height: 500px;
+}
+
+
+h1 {
+     color: #151814;
+    background-color: #DFFFD6;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 48px;
+    
+}
+
+h2 {
+	color: #151814;
+    background-color: #DFFFD6;
+    text-transform: uppercase;
+    font-weight: normal;
+     font-size: 48px;
+}
